@@ -1,5 +1,5 @@
 ## CUT ##
-cut is a simple **C** **U**nit **T**est framework, a single header file `cut.h` contained.
+cut is a simple `C` `U`nit `T`est framework, a single header file `cut.h` contained.
 
 The cut is inspired by [MinUnit](http://www.eskimo.com/~scs/C-faq/q10.4.html). 
 
